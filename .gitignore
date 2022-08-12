@@ -1,3 +1,9 @@
+#
+filiberto/
+test/
+train/
+val/
+
 *.bundle.*
 lib/
 node_modules/
